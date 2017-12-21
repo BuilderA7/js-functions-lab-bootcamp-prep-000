@@ -1,7 +1,7 @@
 // write your code below!
 function happyHolidays() { 
-  var String = "Happy holidays!";
-  return String;
+  var string = "Happy holidays!";
+  return string;
 }
 
 function happyHolidaysTo(name){
