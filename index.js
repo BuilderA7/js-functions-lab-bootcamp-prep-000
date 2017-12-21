@@ -11,7 +11,7 @@ return message;
   
 }
 
-function happyHolidaysTo(holiday, name) { 
+function happyHolidaysTo(holiday, name){ 
  
  var String = `"Happy ${holiday}, ${name}!"`;
   return String;
