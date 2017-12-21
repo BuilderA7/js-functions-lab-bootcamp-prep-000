@@ -6,15 +6,15 @@ function happyHolidays() {
 
 function happyHolidaysTo(name){
   
-  console.log(`Happy holidays, ${name}!`);
-
+  var String = `"Happy holidays, ${name}!"`;
+return String
   
 }
 
 function happyHolidaysTo(name, holiday) { 
  
- var mes = `"Happy ${holiday}, ${name}!"`;
-  return mes;
+ var String = `Happy ${holiday}, ${name}!`;
+  return String;
 }
 
 function holidayCountdown(holiday, days){ 
