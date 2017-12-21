@@ -4,14 +4,14 @@ function happyHolidays() {
   return String;
 }
 
-function happyHolidayTo(name){
+function happyHolidaysTo(name){
   
   var String = `Happy holidays, ${name}!`;
 return String;
   
 }
 
-function happyHolidayTo(name, holiday) { 
+function happyHolidaysTo(holiday, name) { 
  
  var String = `"Happy ${holiday}, ${name}!"`;
   return String;
